@@ -5,4 +5,5 @@
 
 [Arxiv](https://arxiv.org/abs/2509.19244) [Website](https://homepage.jackli.org/projects/lavida_o/index.html#)
 
-Coming Soon!
+This was a place holder repo. 
+Please checkout [https://github.com/shufanl_adobe/LaVida-O-Public](https://github.com/shufanl_adobe/LaVida-O-Public) for code and model
